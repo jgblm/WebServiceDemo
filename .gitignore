@@ -1,3 +1,4 @@
 # Project exclude paths
 /WsClient/target/
 /WsServer/target/
+/.idea/
